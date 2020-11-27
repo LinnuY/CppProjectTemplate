@@ -1,5 +1,5 @@
-aux_source_directory(. DIR_SOURCES)
+file(GLOB_RECURSE FILES "*.*")
 
 set(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
 
-add_library(lib STATIC ${DIR_SOURCES})
+add_library(lib STATIC ${FILES})
