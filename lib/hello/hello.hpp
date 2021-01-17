@@ -9,4 +9,4 @@
 
 void printHello();
 
-#endif HELLO_HPP
+#endif // HELLO_HPP
