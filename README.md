@@ -26,8 +26,8 @@
 This project uses xmake build.
 
 ```shell
-git clone https://github.com/LinnuY/cppDemo.git ./cppDemo
-cd cppDemo
+git clone https://github.com/LinnuY/CppProjectTemplate.git ./CppProjectTemplate
+cd CppProjectTemplate
 xmake build
 xmake install
 ```
@@ -43,7 +43,7 @@ yay -S xmake
 ## Usage
 
 ```shell
-cppDemo <> <>
+CppProjectTemplate <> <>
 ```
 
 ## Example
@@ -66,7 +66,7 @@ To see how the cppDemo has been applied, see the samples.
 
 Feel free to dive in! Open an issue or submit PRs.
 
-CppDemo follows the Contributor Covenant Code of Conduct.
+CppProjectTemplate follows the Contributor Covenant Code of Conduct.
 
 ## License
 
