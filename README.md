@@ -1,4 +1,4 @@
-# C++项目模板
+# C++ Project Template
 
 [![Build Status](https://img.shields.io/badge/build-XMake-Green "Build")](https://travis-ci.org/meolu/walden) ![Build Status](https://img.shields.io/badge/release-v0.0.1-blue "release") [![Build Status](https://img.shields.io/badge/license-GPL-blue "license")](https://travis-ci.org/meolu/walden)
 
