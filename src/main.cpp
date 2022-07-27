@@ -1,7 +1,7 @@
-#include "hello.hpp"
+#include <iostream>
 
 int main()
 {
-    printHello();
+    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
