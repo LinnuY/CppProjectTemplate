@@ -7,5 +7,5 @@ target("cpp_demo_lib")
 target("cpp_demo")
     set_kind("binary")
     add_deps("cpp_demo_lib")
-    add_files("src/**.cpp")
+    add_files("samples/**.cpp")
 
