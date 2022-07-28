@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../include/hello/hello.hpp"
+#include "hello/hello.hpp"
 
 int main()
 {

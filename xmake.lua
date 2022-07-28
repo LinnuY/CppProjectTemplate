@@ -7,5 +7,6 @@ target("cpp_demo_lib")
 target("cpp_demo")
     set_kind("binary")
     add_deps("cpp_demo_lib")
+    add_includedirs("include")
     add_files("samples/**.cpp")
 
